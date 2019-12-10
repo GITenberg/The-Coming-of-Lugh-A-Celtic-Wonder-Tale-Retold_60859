@@ -1,5 +1,5 @@
 _repo: The-Coming-of-Lugh-A-Celtic-Wonder-Tale-Retold_60859
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Gonne, Maud
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '51166'
     url: http://www.gutenberg.org/2009/agents/51166
     wikipedia: https://en.wikipedia.org/wiki/Maud_Gonne
+covers:
+- cover_type: archival
+  image_path: 60859-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Ella
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51131
     wikipedia: https://en.wikipedia.org/wiki/Ella_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60859#The-Coming-of-Lugh-A-Celtic-Wonder-Tale-Retold
 gutenberg_issued: '2019-12-06'
 gutenberg_type: Text
 identifiers:
